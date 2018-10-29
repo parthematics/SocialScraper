@@ -124,7 +124,7 @@ if __name__ == "__main__":
 	# implementing threading lock
 	master_lock = threading.Lock()
 
-	# Load up a queue with symbols
+	# create queue
 	q = Queue()
 	for coin in symbols:
 	    q.put(coin)
