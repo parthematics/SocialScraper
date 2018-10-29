@@ -1,1 +1,538 @@
-{"XRP": {"Reddit": {"Points": 198612, "comments_per_day": 254.9, "comments_per_hour": "10.62", "name": "Ripple", "posts_per_day": "8.28", "posts_per_hour": "0.35", "subscribers": 193987}, "Twitter": {"Points": 97755, "followers": 906739, "statuses": 6260}, "General": {"CoinName": "XRP"}, "Facebook": {"Points": 0, "likes": 0, "talking_about": "1247"}, "CryptoCompare": {"Points": 3582105, "Followers": 44154, "PageViews": 19200893, "PageViewsSplit": {"Overview": 9979598, "Markets": 586645, "Analysis": 229362, "Charts": 1725572, "Trades": 637378, "Orderbook": 24903, "Forum": 5969555, "Influence": 30391, "News": 17489}}, "Repo": {}}, "BTC": {"Reddit": {"Points": 1000620, "comments_per_day": 2803.37, "comments_per_hour": "116.81", "name": "Bitcoin", "posts_per_day": "190.84", "posts_per_hour": "7.95", "subscribers": 969454}, "Twitter": {"Points": 91055, "followers": 844049, "statuses": 20316}, "General": {"CoinName": "Bitcoin"}, "Facebook": {"Points": 37425, "likes": 37425, "talking_about": "471"}, "CryptoCompare": {"Points": 5547785, "Followers": 60364, "PageViews": 36530028, "PageViewsSplit": {"Overview": 20798848, "Markets": 1338750, "Analysis": 915136, "Charts": 6802559, "Trades": 636550, "Orderbook": 50045, "Forum": 5900094, "Influence": 54145, "News": 33901}}, "Repo": {}}, "XMR": {"Reddit": {"Points": 149904, "comments_per_day": 323.28, "comments_per_hour": "13.47", "name": "Monero", "posts_per_day": "20.11", "posts_per_hour": "0.84", "subscribers": 146369}, "Twitter": {"Points": 34174, "followers": 309957, "statuses": 3269}, "General": {"CoinName": "Monero"}, "Facebook": {"Points": 24751, "likes": 24751, "talking_about": "275"}, "CryptoCompare": {"Points": 623365, "Followers": 22869, "PageViews": 2410849, "PageViewsSplit": {"Overview": 1881948, "Markets": 53812, "Analysis": 49659, "Charts": 258963, "Trades": 34020, "Orderbook": 5911, "Forum": 115054, "Influence": 10376, "News": 1106}}, "Repo": {}}, "LTC": {"Reddit": {"Points": 201855, "comments_per_day": 56.99, "comments_per_hour": "2.37", "name": "litecoin", "posts_per_day": "7.20", "posts_per_hour": "0.30", "subscribers": 198544}, "Twitter": {"Points": 46321, "followers": 433363, "statuses": 752}, "General": {"CoinName": "Litecoin"}, "Facebook": {"Points": 7865, "likes": 7865, "talking_about": "37"}, "CryptoCompare": {"Points": 1398485, "Followers": 36382, "PageViews": 8393658, "PageViewsSplit": {"Overview": 5232649, "Markets": 421672, "Analysis": 110707, "Charts": 1107019, "Trades": 164043, "Orderbook": 14704, "Forum": 1323562, "Influence": 16469, "News": 2833}}, "Repo": {}}, "DASH": {"Reddit": {"Points": 24186, "comments_per_day": 44.58, "comments_per_hour": "1.86", "name": "dashpay", "posts_per_day": "9.38", "posts_per_hour": "0.39", "subscribers": 22726}, "Twitter": {"Points": 35103, "followers": 318432, "statuses": 3208}, "General": {"CoinName": "Dash"}, "Facebook": {"Points": 0, "likes": 0, "talking_about": "239"}, "CryptoCompare": {"Points": 397660, "Followers": 13943, "PageViews": 1799230, "PageViewsSplit": {"Overview": 1413711, "Markets": 40171, "Analysis": 30261, "Charts": 199513, "Trades": 26018, "Orderbook": 4876, "Forum": 77646, "Influence": 6535, "News": 499}}, "Repo": {}}, "NEO": {"Reddit": {"Points": 99354, "comments_per_day": 100.36, "comments_per_hour": "4.18", "name": "NEO", "posts_per_day": "8.89", "posts_per_hour": "0.37", "subscribers": 97054}, "Twitter": {"Points": 34894, "followers": 318380, "statuses": 714}, "General": {"CoinName": "NEO"}, "Facebook": {"Points": 942, "likes": 942, "talking_about": "0"}, "CryptoCompare": {"Points": 576630, "Followers": 15081, "PageViews": 2165211, "PageViewsSplit": {"Overview": 1443292, "Markets": 42620, "Analysis": 28179, "Charts": 227934, "Trades": 44987, "Orderbook": 793, "Forum": 370995, "Influence": 5492, "News": 919}}, "Repo": {}}, "ZIL": {"Reddit": {"Points": 9903, "comments_per_day": 13.4, "comments_per_hour": "0.56", "name": "zilliqa", "posts_per_day": "1.51", "posts_per_hour": "0.06", "subscribers": 9319}, "Twitter": {"Points": 5815, "followers": 52392, "statuses": 734}, "General": {"CoinName": "Zilliqa"}, "Facebook": {"Points": 0}, "CryptoCompare": {"Points": 17310, "Followers": 462, "PageViews": 105030, "PageViewsSplit": {"Overview": 75959, "Markets": 2887, "Analysis": 1532, "Charts": 10558, "Trades": 2849, "Orderbook": 0, "Forum": 10368, "Influence": 454, "News": 423}}, "Repo": {}}, "ETC": {"Reddit": {"Points": 24739, "comments_per_day": 9.24, "comments_per_hour": "0.38", "name": "EthereumClassic", "posts_per_day": "5.30", "posts_per_hour": "0.22", "subscribers": 23515}, "Twitter": {"Points": 25170, "followers": 228284, "statuses": 4608}, "General": {"CoinName": "Ethereum Classic"}, "Facebook": {"Points": 0}, "CryptoCompare": {"Points": 341300, "Followers": 10646, "PageViews": 1931081, "PageViewsSplit": {"Overview": 1408266, "Markets": 57625, "Analysis": 31050, "Charts": 203247, "Trades": 50327, "Orderbook": 4447, "Forum": 170775, "Influence": 3898, "News": 1446}}, "Repo": {}}, "SC": {"Reddit": {"Points": 32818, "comments_per_day": 24.89, "comments_per_hour": "1.04", "name": "siacoin", "posts_per_day": "3.48", "posts_per_hour": "0.15", "subscribers": 31584}, "Twitter": {"Points": 12178, "followers": 108487, "statuses": 1040}, "General": {"CoinName": "Siacoin"}, "Facebook": {"Points": 0, "likes": 0, "talking_about": "1"}, "CryptoCompare": {"Points": 178095, "Followers": 5722, "PageViews": 668541, "PageViewsSplit": {"Overview": 452658, "Markets": 38523, "Analysis": 10920, "Charts": 49124, "Trades": 12817, "Orderbook": 2272, "Forum": 98065, "Influence": 3866, "News": 296}}, "Repo": {}}, "ETH": {"Reddit": {"Points": 408687, "comments_per_day": 251.76, "comments_per_hour": "10.49", "name": "ethereum", "posts_per_day": "20.87", "posts_per_hour": "0.87", "subscribers": 401344}, "Twitter": {"Points": 49552, "followers": 433943, "statuses": 1935}, "General": {"CoinName": "Ethereum"}, "Facebook": {"Points": 136990, "likes": 136990, "talking_about": "379"}, "CryptoCompare": {"Points": 3022065, "Followers": 58756, "PageViews": 22173785, "PageViewsSplit": {"Overview": 13001042, "Markets": 657835, "Analysis": 395736, "Charts": 4242911, "Trades": 369794, "Orderbook": 67267, "Forum": 3387023, "Influence": 40166, "News": 12011}}, "Repo": {}}, "BAT": {"Reddit": {"Points": 0}, "Twitter": {"Points": 10195, "followers": 88273, "statuses": 607}, "General": {"CoinName": "Basic Attention Token"}, "Facebook": {"Points": 0}, "CryptoCompare": {"Points": 57190, "Followers": 1900, "PageViews": 233015, "PageViewsSplit": {"Overview": 181440, "Markets": 7076, "Analysis": 3618, "Charts": 19473, "Trades": 3426, "Orderbook": 85, "Forum": 16866, "Influence": 911, "News": 120}}, "Repo": {}}}
+{
+   "XRP":{
+
+      "Reddit":{
+         "Points":198612,
+         "comments_per_day":254.9,
+         "comments_per_hour":"10.62",
+         "name":"Ripple",
+         "posts_per_day":"8.28",
+         "posts_per_hour":"0.35",
+         "subscribers":193987
+      },
+
+      "Twitter":{
+         "Points":97755,
+         "followers":906739,
+         "statuses":6260
+      },
+
+      "General":{
+         "CoinName":"XRP"
+      },
+
+      "Facebook":{
+         "Points":0,
+         "likes":0,
+         "talking_about":"1247"
+      },
+
+      "CryptoCompare":{
+         "Points":3582105,
+         "Followers":44154,
+         "PageViews":19200893,
+         "PageViewsSplit":{
+            "Overview":9979598,
+            "Markets":586645,
+            "Analysis":229362,
+            "Charts":1725572,
+            "Trades":637378,
+            "Orderbook":24903,
+            "Forum":5969555,
+            "Influence":30391,
+            "News":17489
+         }  
+      },
+
+      "Repo":{
+
+      }
+   },
+
+   "BTC":{
+
+      "Reddit":{
+         "Points":1000620,
+         "comments_per_day":2803.37,
+         "comments_per_hour":"116.81",
+         "name":"Bitcoin",
+         "posts_per_day":"190.84",
+         "posts_per_hour":"7.95",
+         "subscribers":969454
+      },
+
+      "Twitter":{
+         "Points":91055,
+         "followers":844049,
+         "statuses":20316
+      },
+
+      "General":{
+         "CoinName":"Bitcoin"
+      },
+
+      "Facebook":{
+         "Points":37425,
+         "likes":37425,
+         "talking_about":"471"
+      },
+
+      "CryptoCompare":{
+         "Points":5547785,
+         "Followers":60364,
+         "PageViews":36530028,
+         "PageViewsSplit":{
+            "Overview":20798848,
+            "Markets":1338750,
+            "Analysis":915136,
+            "Charts":6802559,
+            "Trades":636550,
+            "Orderbook":50045,
+            "Forum":5900094,
+            "Influence":54145,
+            "News":33901
+         }
+      },
+
+      "Repo":{
+
+      }
+   },
+
+   "XMR":{
+
+      "Reddit":{
+         "Points":149904,
+         "comments_per_day":323.28,
+         "comments_per_hour":"13.47",
+         "name":"Monero",
+         "posts_per_day":"20.11",
+         "posts_per_hour":"0.84",
+         "subscribers":146369
+      },
+
+      "Twitter":{
+         "Points":34174,
+         "followers":309957,
+         "statuses":3269
+      },
+
+      "General":{
+         "CoinName":"Monero"
+      },
+
+      "Facebook":{
+         "Points":24751,
+         "likes":24751,
+         "talking_about":"275"
+      },
+
+      "CryptoCompare":{
+         "Points":623365,
+         "Followers":22869,
+         "PageViews":2410849,
+         "PageViewsSplit":{
+            "Overview":1881948,
+            "Markets":53812,
+            "Analysis":49659,
+            "Charts":258963,
+            "Trades":34020,
+            "Orderbook":5911,
+            "Forum":115054,
+            "Influence":10376,
+            "News":1106
+         }
+      },
+
+      "Repo":{
+
+      }
+   },
+
+   "LTC":{
+
+      "Reddit":{
+         "Points":201855,
+         "comments_per_day":56.99,
+         "comments_per_hour":"2.37",
+         "name":"litecoin",
+         "posts_per_day":"7.20",
+         "posts_per_hour":"0.30",
+         "subscribers":198544
+      },
+
+      "Twitter":{
+         "Points":46321,
+         "followers":433363,
+         "statuses":752
+      },
+
+      "General":{
+         "CoinName":"Litecoin"
+      },
+
+      "Facebook":{
+         "Points":7865,
+         "likes":7865,
+         "talking_about":"37"
+      },
+
+      "CryptoCompare":{
+         "Points":1398485,
+         "Followers":36382,
+         "PageViews":8393658,
+         "PageViewsSplit":{
+            "Overview":5232649,
+            "Markets":421672,
+            "Analysis":110707,
+            "Charts":1107019,
+            "Trades":164043,
+            "Orderbook":14704,
+            "Forum":1323562,
+            "Influence":16469,
+            "News":2833
+         }
+      },
+
+      "Repo":{
+
+      }
+   },
+
+   "DASH":{
+
+      "Reddit":{
+         "Points":24186,
+         "comments_per_day":44.58,
+         "comments_per_hour":"1.86",
+         "name":"dashpay",
+         "posts_per_day":"9.38",
+         "posts_per_hour":"0.39",
+         "subscribers":22726
+      },
+
+      "Twitter":{
+         "Points":35103,
+         "followers":318432,
+         "statuses":3208
+      },
+
+      "General":{
+         "CoinName":"Dash"
+      },
+
+      "Facebook":{
+         "Points":0,
+         "likes":0,
+         "talking_about":"239"
+      },
+
+      "CryptoCompare":{
+         "Points":397660,
+         "Followers":13943,
+         "PageViews":1799230,
+         "PageViewsSplit":{
+            "Overview":1413711,
+            "Markets":40171,
+            "Analysis":30261,
+            "Charts":199513,
+            "Trades":26018,
+            "Orderbook":4876,
+            "Forum":77646,
+            "Influence":6535,
+            "News":499
+         }
+      },
+
+      "Repo":{
+
+      }
+   },
+
+   "NEO":{
+
+      "Reddit":{
+         "Points":99354,
+         "comments_per_day":100.36,
+         "comments_per_hour":"4.18",
+         "name":"NEO",
+         "posts_per_day":"8.89",
+         "posts_per_hour":"0.37",
+         "subscribers":97054
+      },
+
+      "Twitter":{
+         "Points":34894,
+         "followers":318380,
+         "statuses":714
+      },
+
+      "General":{
+         "CoinName":"NEO"
+      },
+
+      "Facebook":{
+         "Points":942,
+         "likes":942,
+         "talking_about":"0"
+      },
+
+      "CryptoCompare":{
+         "Points":576630,
+         "Followers":15081,
+         "PageViews":2165211,
+         "PageViewsSplit":{
+            "Overview":1443292,
+            "Markets":42620,
+            "Analysis":28179,
+            "Charts":227934,
+            "Trades":44987,
+            "Orderbook":793,
+            "Forum":370995,
+            "Influence":5492,
+            "News":919
+         }
+      },
+
+      "Repo":{
+
+      }
+   },
+
+   "ZIL":{
+
+      "Reddit":{
+         "Points":9903,
+         "comments_per_day":13.4,
+         "comments_per_hour":"0.56",
+         "name":"zilliqa",
+         "posts_per_day":"1.51",
+         "posts_per_hour":"0.06",
+         "subscribers":9319
+      },
+
+      "Twitter":{
+         "Points":5815,
+         "followers":52392,
+         "statuses":734
+      },
+
+      "General":{
+         "CoinName":"Zilliqa"
+      },
+
+      "Facebook":{
+         "Points":0
+      },
+
+      "CryptoCompare":{
+         "Points":17310,
+         "Followers":462,
+         "PageViews":105030,
+         "PageViewsSplit":{
+            "Overview":75959,
+            "Markets":2887,
+            "Analysis":1532,
+            "Charts":10558,
+            "Trades":2849,
+            "Orderbook":0,
+            "Forum":10368,
+            "Influence":454,
+            "News":423
+         }
+      },
+
+      "Repo":{
+
+      }
+   },
+
+   "ETC":{
+      "Reddit":{
+         "Points":24739,
+         "comments_per_day":9.24,
+         "comments_per_hour":"0.38",
+         "name":"EthereumClassic",
+         "posts_per_day":"5.30",
+         "posts_per_hour":"0.22",
+         "subscribers":23515
+      },
+
+      "Twitter":{
+         "Points":25170,
+         "followers":228284,
+         "statuses":4608
+      },
+
+      "General":{
+         "CoinName":"Ethereum Classic"
+      },
+
+      "Facebook":{
+         "Points":0
+      },
+
+      "CryptoCompare":{
+         "Points":341300,
+         "Followers":10646,
+         "PageViews":1931081,
+         "PageViewsSplit":{
+            "Overview":1408266,
+            "Markets":57625,
+            "Analysis":31050,
+            "Charts":203247,
+            "Trades":50327,
+            "Orderbook":4447,
+            "Forum":170775,
+            "Influence":3898,
+            "News":1446
+         }
+      },
+
+      "Repo":{
+
+      }
+   },
+
+   "SC":{
+
+      "Reddit":{
+         "Points":32818,
+         "comments_per_day":24.89,
+         "comments_per_hour":"1.04",
+         "name":"siacoin",
+         "posts_per_day":"3.48",
+         "posts_per_hour":"0.15",
+         "subscribers":31584
+      },
+
+      "Twitter":{
+         "Points":12178,
+         "followers":108487,
+         "statuses":1040
+      },
+
+      "General":{
+         "CoinName":"Siacoin"
+      },
+
+      "Facebook":{
+         "Points":0,
+         "likes":0,
+         "talking_about":"1"
+      },
+
+      "CryptoCompare":{
+         "Points":178095,
+         "Followers":5722,
+         "PageViews":668541,
+         "PageViewsSplit":{
+            "Overview":452658,
+            "Markets":38523,
+            "Analysis":10920,
+            "Charts":49124,
+            "Trades":12817,
+            "Orderbook":2272,
+            "Forum":98065,
+            "Influence":3866,
+            "News":296
+         }
+      },
+
+      "Repo":{
+
+      }
+   },
+
+   "ETH":{
+
+      "Reddit":{
+         "Points":408687,
+         "comments_per_day":251.76,
+         "comments_per_hour":"10.49",
+         "name":"ethereum",
+         "posts_per_day":"20.87",
+         "posts_per_hour":"0.87",
+         "subscribers":401344
+      },
+
+      "Twitter":{
+         "Points":49552,
+         "followers":433943,
+         "statuses":1935
+      },
+
+      "General":{
+         "CoinName":"Ethereum"
+      },
+
+      "Facebook":{
+         "Points":136990,
+         "likes":136990,
+         "talking_about":"379"
+      },
+
+      "CryptoCompare":{
+         "Points":3022065,
+         "Followers":58756,
+         "PageViews":22173785,
+         "PageViewsSplit":{
+            "Overview":13001042,
+            "Markets":657835,
+            "Analysis":395736,
+            "Charts":4242911,
+            "Trades":369794,
+            "Orderbook":67267,
+            "Forum":3387023,
+            "Influence":40166,
+            "News":12011
+         }
+      },
+
+      "Repo":{
+
+      }
+   },
+
+   "BAT":{
+
+      "Reddit":{
+         "Points":0
+      },
+
+      "Twitter":{
+         "Points":10195,
+         "followers":88273,
+         "statuses":607
+      },
+
+      "General":{
+         "CoinName":"Basic Attention Token"
+      },
+
+      "Facebook":{
+         "Points":0
+      },
+
+      "CryptoCompare":{
+         "Points":57190,
+         "Followers":1900,
+         "PageViews":233015,
+         "PageViewsSplit":{
+            "Overview":181440,
+            "Markets":7076,
+            "Analysis":3618,
+            "Charts":19473,
+            "Trades":3426,
+            "Orderbook":85,
+            "Forum":16866,
+            "Influence":911,
+            "News":120
+         }
+      },
+      
+      "Repo":{
+
+      }
+   }
+}
